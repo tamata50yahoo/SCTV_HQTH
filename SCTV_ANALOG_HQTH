@@ -42,13 +42,13 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Refere
 #EXTGRP:VTV
 https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8
 
-#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MYTV
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 SV2
 #EXTGRP:VTV
-https://wallpapermeter.tk/worldcup/vtv2mytv
+http://103.75.187.237:9981/stream/channelid/171222244?
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MYTV
 #EXTGRP:VTV
-https://wallpapermeter.tk/worldcup/vtv3mytv
+http://103.75.187.237:9981/stream/channelid/266720209?
 
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", Quốc Phòng TV
 #EXTGRP:VTV
@@ -115,9 +115,9 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv13/index.m3u8|Referer=https:/
 #EXTGRP:VTV
 https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6 SV2
 #EXTGRP:VTV
-https://wallpapermeter.tk/worldcup/vtvcanthomytv
+http://103.75.187.237:9981/stream/channelid/264239339?
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qJmNaMAA_HU3?format=png", SCTV11
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -136,9 +136,9 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTGRP:HTV
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png, VTV5 MYTV
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png, VTV5 SV2
 #EXTGRP:VTV
-https://wallpapermeter.tk/worldcup/vtv5mytv
+http://103.75.187.237:9981/stream/channelid/515067987?
 
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sport plus
 #EXTGRP:VTVcab
