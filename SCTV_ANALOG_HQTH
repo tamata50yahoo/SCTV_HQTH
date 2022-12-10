@@ -46,7 +46,7 @@ http://pcriptv.duckdns.org:9981/stream/channelid/1796478406?
 #EXTGRP:VTV
 http://103.75.187.237:9981/stream/channelid/171222244?
 
-#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MYTV
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 #EXTGRP:VTV
 http://103.75.187.237:9981/stream/channelid/266720209?
 
