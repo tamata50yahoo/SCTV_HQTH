@@ -116,7 +116,7 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv13/index.m3u8|Referer=https:/
 #EXTGRP:VTV
 https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6 SV2
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6 SV1
 #EXTGRP:VTV
 http://103.75.187.237:9981/stream/channelid/264239339?
 
