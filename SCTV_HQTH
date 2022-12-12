@@ -5,7 +5,7 @@
 #EXTGRP:SCTV
 https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv6/index.m3u8|Referer=https://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="vtvcab12styletv" tvg-logo="https://pbs.twimg.com/media/Fa7aXwracAQbXoR?format=png", VTVcab12 - Style TV
+#EXTINF:-1 tvg-id="vtvcab12styletv" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png", VTVcab12 - Style TV
 #EXTGRP:VTVcab
 https://livevlive.vtvcab.vn/hls/OS_STYLE_TV_HD/sc-gaFEAA/m30_index.m3u8
 
