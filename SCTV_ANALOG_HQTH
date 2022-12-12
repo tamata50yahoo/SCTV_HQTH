@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://lichphatsong.xyz/schedule/epg.xml,http://lichphatsong.xyz/schedule/beartv_epg.xml,http://trada.info/epg.xml,http://gg.gg/coocaaE,http://megavie.live/schedule/epg.xml"
+#EXTM3U
 
 # SCTV_ANALOG_HQTH
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://pbs.twimg.com/media/Fa6qGZJagAM5Dvo?format=png", SCTV6
